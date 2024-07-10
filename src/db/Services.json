@@ -1,0 +1,59 @@
+[
+  {
+    "id": 1,
+    "image": "https://s3-alpha-sig.figma.com/img/2744/1c18/b0f5f2c90514e27fff048625724e5dcc?Expires=1721001600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=IWGmA~3Udf64-GuUzM4W9jkUpUgRuOUk1mzX~X8haEtos~GtqhOWpCkSUs1g-dRHIZU20uxhlnl~MrkLlHxXEA9Iv~TE558aNeR23A~d~pPashQ-Dm36DM9VMf8jeJkDWOR2WV0149IZ9iAf1I65HJxacA7lb~K3IHBAmMQcWOkHOEA6L0J9pOCxfeQbj5~dZONVjrY3nFgxIfRPcLwiDzNwv59faQwYH0A21RNoDNx1M3dIQ-BfKqxjplU93jkKWHLTAjVSDatU4Uu6yUngA5mdVGWKP~ZYVuelHA8SqkvxF3gfWqTJtQ4beX8XGWsFKERu0TSo7KaBkL6jjPJ12w__",
+    "name": "Апробация",
+    "surname": "Анализатор мочи MIND UA-66",
+    "price": 10000
+  },
+  {
+    "id": 2,
+    "image": "https://s3-alpha-sig.figma.com/img/7aed/a57b/3b8fa386188c96595ca65b2c25d8ab8d?Expires=1721001600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=X1K2QlwL0xXE27mHMSAZuSRDUILCTbii65ztUvT~NEnpsQDvZMjAV7ZVrLB-TYk-A-hIWDDcNVaq824haZw-RYs86lXQWKwo6r29dRooDuRnVDbw3OnBtN06uUoOGgOxSyo4s3YS~eQjHt-7A10v9Pr2TRIunD88Vj9xL6LsdVunzLSM0mqEyW5Fym8w9Agyz6gjgoLgSOSxmGKMrkEclEQjgofZwssMhmcTx~ytKQxAxYRPvSNPIBA54IVFNm~pjeZ22gvUixu3Vvg3nOJDKxNQfOtBRwGIook7I6nQ-v9ozIxK7InGymtp2F23BYcDCFEI6srrak0YFffIjOlXkg__",
+    "name": "Помощь инженеров в настройке",
+    "surname": "Анализатор мочи MIND UA-66",
+    "price": 9500
+  },
+  {
+    "id": 3,
+    "image": "https://s3-alpha-sig.figma.com/img/7922/f0f5/a6096db5424bbde83534769801331897?Expires=1721001600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=bDm5Yqk3v8ttJZ~ONq82kZPFQH1abzd5X3Ze7SGUnk~lGlJOnsm-50xi37td~RLi51vi1-RvfdhS6QkXX3KaysC4xrVMhVBA9xCPp4OIQx60NV~mRNQz4TMjF1rdQ9yB~-h8953n4gCMqGJDmm8o7~oJPkw1masNRRygFZzAExQZapDGtYz2g~8C6VFxeCgVWTyORYVcORtDMkqyOqaOpEDto5gIz0GfcVxPCw1R0Un6fPcEeoGwOQX5uwa2hVNRkWtpfGIh~BpbNfd6Jo4B4fJk2aho1WX-u6SeMTqcehzA2ecNr2NDOIlbOi8mJZEHaWVXobM3Zal-8xO-bUjQIg__",
+    "name": "Обучение работе с оборудованием",
+    "surname": "Анализатор мочи MIND UA-66",
+    "price": 12000
+  },
+  {
+    "id": 4,
+    "image": "https://s3-alpha-sig.figma.com/img/d9c5/f5e0/dfed22917e024c20a8cbcceb9c3a67aa?Expires=1721001600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=VZKY81UDfnYLomPNCOpJ4No9O~HNWnfAG10Kh0D3HEWC6miyxnmSQrRpFzJBoa0YviNzsiPOzn5vZZEA1maUmWpg4X08VtH6uYqm51Cf5Wx6edSL~OyK299z52P~gfRdJMc~TDbT7K4GPZBtl63E871cTgCoY1Fkd5H62N14TumEDB0hrhQniEQVo9xzmhrKQ2~y141tUf8QntmJO6Kz8JBfIxvxPBBK3ZORAdjuLY8RMuICMWMBb3-oBUCF9kpNXIw58V3nA43nmAhDuqRcdi4dvZ9W-DsSlrOX1pWIXIedjMm~hibRqcA2NQ6QXdxBW2~tO0t1UxEV~RScGxbKWw__",
+    "name": "Работа с учебными центрами повышения квалификации медицинского персонала",
+    "surname": "Анализатор мочи MIND UA-66",
+    "price": 6000
+  },
+  {
+    "id": 5,
+    "image": "https://s3-alpha-sig.figma.com/img/e123/3836/205d77d130d4e1ab41205204c37a157f?Expires=1721001600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=im5pWCe27Hu3GsiUIpEdTf-Oiuy0tfinJuCvTs7A43j88FFN0G-wQvfIRq2cJzkJjlrgDZlL5IoPYb-0Bumgo7xGmzH4zp-jv1Zsei8ZxE1SbTdeeRISAaqDQlMpj8a935IO-UI4Xoy-rtGKw2qlfJ869rKa~F3-681JR-HAOv3tDh0R1FVPl~6R-5oYon0lJsoQZUYWtMlxj~pa-Ac8WBn5NuHSh4kRfcVxPceoHBs1hWp3nUQPXnr-BWhJB1UxTkQ5Qh2SDPgfylYsdWE7QR~u4KIW1F6FGeAqCblpTfdgwxP7S9On8Lp747GpZTNUYPuB32l0y6zWpD2nSqeYHg__",
+    "name": "Помощь в подборе оборудования",
+    "surname": "Анализатор мочи MIND UA-66",
+    "katalog": "Хирургические инструменты",
+    "price": 11000
+  },
+  {
+    "id": 6,
+    "image": "https://s3-alpha-sig.figma.com/img/5de5/da22/9ae8ef58aae0c61e6b108d6ead0ea8bc?Expires=1721001600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=AzydaABMAzbT0v1W44jKT4fa1K4GiUSzCIh5b46c64slWiGKI2atqp~7xgu700RsxaE48VZKMbX9xUfmsac49-Pn~njeFL5LXetYum7yUcs8Am~roiVoVqMHJv0n~duGcI0DnUuRIQsKSTtDigVAnCRksTtdXmkQNImWOasjqMWnKYVBt9EgoBkYQ7zzGP-39VHph225yCapEqKc4z4aXAASHi0EiFdmxYvCjPVOt3Fe9VJTVKaj69JgMp-twLJs5injWNRp9POTDru1bKIB7B6Kuw3GPeOmpk6fUm4VUMtf0WEAihg7ENETUeuTj1bZEkQfp8pvhpH5J~SZyJvAzw__",
+    "name": "Пуско-наладочные работы",
+    "surname": "Анализатор мочи MIND UA-66",
+    "price": 14500
+  },
+  {
+    "id": 7,
+    "image": "https://s3-alpha-sig.figma.com/img/57eb/f44d/c83a90b639c2415592969cf761244396?Expires=1721001600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=QeQqn-cyu3KGl6IKoNDksRMv6YWL7lK4Voo0AOVOyMZJ-wQW1fE~gOtqQBQU4ZokuYhk48HSonJAXJQm5a-JoChePsu3cIwVNxPNIIZ-vzGlc61izj~UiXuvq0sY638s-XCQbwuHO8ztFMs5xkeyLh6nydiaDXAUiMf5qj6GLaQ7wpo1oQflruLPg4WbgaR5y95RuRJCaZKtew7WAXJBEps2Thr1EeZ2wFY-bkeqGh-jImmuJWzH3a3Vf4OO377aE1zkiy7F4OGuwu517JzTEdAWFO8eWGE7uzDhAzIgrr0HqlZOgmZhl7VuprSJDV1Evihn5qWo78KFSvvZkMMVwg__",
+    "name": "Подменный аппарат",
+    "surname": "Анализатор мочи MIND UA-66",
+    "price": 7300
+  },
+  {
+    "id": 8,
+    "image": "https://s3-alpha-sig.figma.com/img/a7b8/5b66/c346305e71dfc2bab213c45454b5406d?Expires=1721001600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=Xo6gfh9xAr0OBZ7oczg~1DlAHH7HXRFavNLqprWwgkRJ2672DvktdEh-AY77q9NTc0rOT7nYFaKV2BY5s2Czbe1i4skfBOR0FQbY1L36fyr6NpRhbqRT3KV6ckKXqYnfDLLtI9BQAQNNB7UIPvmYzwafYolVLPP3N4aGyFfBakaat1dg6F2BC1s9seHJCnWA8Uhxvy14b2wGeS-mpxcZDlgdhFVFqlQvVPhb-Dpw5pYoN7kzu1ocpIvyTMSDRoQ-1R0-heKg-TmDVXqu61Agd3BjapVSRHnb~k3xjKmClOwA9GWWTEpsZhGUVWCXIK3HyI-BrrMQEmtIqYmLhcE8kw__",
+    "name": "Организация обучения врачей на собственной территории",
+    "surname": "Анализатор мочи MIND UA-66",
+    "price": 4600
+  }
+]

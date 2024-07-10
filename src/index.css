@@ -1,0 +1,17 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+body {
+  background-color: #f8f7f3;
+}
+
+a.active {
+  color: #088269;
+  font-weight: 700;
+}
